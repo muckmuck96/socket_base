@@ -1,4 +1,5 @@
 # Basic template for a socket application
+Basic template which uses [socket.io](https://socket.io/) for socket handling
 
 ## Structure
 * /cert -> Contains the certificate and private key for ssl usage
